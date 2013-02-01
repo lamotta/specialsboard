@@ -7,11 +7,11 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Kasper Zinck</string>
+	<string>Joe Bergantine</string>
 	<key>name</key>
-	<string>Special Boards - Special Edition</string>
+	<string>Birds of Paradise</string>
 	<key>semanticClass</key>
-	<string>theme.special.boards-special-edition</string>
+	<string>theme.dark.birds-of-paradise</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -141,7 +141,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#7baac7</string>
+				<string>#7DAF9C</string>
 			</dict>
 		</dict>
 		<dict>
@@ -235,7 +235,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#b17371</string>
+				<string>#d68733</string>
 			</dict>
 		</dict>
 		<dict>
@@ -248,7 +248,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#b17371</string>
+				<string>#d68733</string>
 			</dict>
 		</dict>
 		<dict>
