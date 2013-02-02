@@ -7,9 +7,9 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Joe Bergantine</string>
+	<string>Kasper Zinck</string>
 	<key>name</key>
-	<string>Birds of Paradise</string>
+	<string>Specials Board - Special Edition</string>
 	<key>semanticClass</key>
 	<string>theme.dark.birds-of-paradise</string>
 	<key>settings</key>
