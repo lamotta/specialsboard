@@ -11,7 +11,7 @@
 	<key>name</key>
 	<string>Specials Board - Special Edition</string>
 	<key>semanticClass</key>
-	<string>theme.dark.birds-of-paradise</string>
+	<string>theme.specials.board.special.edition</string>
 	<key>settings</key>
 	<array>
 		<dict>
