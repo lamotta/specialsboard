@@ -136,7 +136,7 @@
     bottom: 0;
     left: 0;
     right: 0;
-	  color: #a7d473 !important;
+    color: #a7d473 !important;
     overflow-y: auto;
 }
 
@@ -185,7 +185,7 @@
 }
 
 .properties-tree li.parent.expanded::before {
-	content: url(chrome-devtools://devtools/Images/treeDownTriangleWhite.png) !important;
+  content: url(chrome-devtools://devtools/Images/treeDownTriangleWhite.png) !important;
     margin-top: 1px;
 }
 
@@ -210,7 +210,7 @@
 }
 
 .section .properties .color, .event-properties .color {
-	 color: #d8f2ba !important;
+   color: #d8f2ba !important;
 }
 
 .console-error-level .console-message-text, .console-error-level .section .header .title {
@@ -234,7 +234,8 @@
 #-webkit-web-inspector .styles-section .header .subtitle,
 .webkit-html-external-link,
 .webkit-html-resource-link {
-    color: #abca7e !important;
+    color: #666 !important;
+    margin-right: 2px !important;
 }
  
 #-webkit-web-inspector  .monospace, 
@@ -245,7 +246,7 @@
 }
  
 #-webkit-web-inspector .styles-section .properties > li .webkit-css-property {
-    color: #ffc97c !important;
+    color: #d68532 !important;
 }
 
 .styles-section .properties .child-editing,
@@ -255,7 +256,7 @@
 #-webkit-web-inspector .webkit-css-selector,
 #-webkit-web-inspector .styles-selector,
 #-webkit-web-inspector .styles-section .selector-matches {
-  color: #fff !important;
+  color: #abca7e !important;
 }
 
 
