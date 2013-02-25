@@ -240,6 +240,8 @@
 #-webkit-web-inspector  .monospace, 
 #-webkit-web-inspector .source-code {
     color: #7faac7 !important;
+    font-family: inconsolata !important;
+    font-size: 14px !important;
 }
  
 #-webkit-web-inspector .styles-section .properties > li .webkit-css-property {
