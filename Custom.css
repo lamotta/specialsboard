@@ -96,7 +96,7 @@
 #-webkit-web-inspector .styles-section{background-color:#222 !important;}
 #-webkit-web-inspector .styles-section.read-only{background-color:#555 !important;}
 #-webkit-web-inspector .styles-section .header .subtitle,.webkit-html-external-link,.webkit-html-resource-link{color:#666 !important;margin-right:2px !important;}
-#-webkit-web-inspector .monospace, #-webkit-web-inspector .source-code{color:#7faac7 !important;font-family:inconsolata !important;font-size:14px !important;}
+#-webkit-web-inspector .monospace, #-webkit-web-inspector .source-code{color:#7faac7 !important;}
 #-webkit-web-inspector .styles-section .properties > li .webkit-css-property{color:#d68532 !important;}
 #-webkit-web-inspector .styles-section .properties .child-editing,.styles-section .title > div > span,.styles-section .styles-selector > div > span,.section .properties .name, .event-properties .name,#-webkit-web-inspector .webkit-css-selector,#-webkit-web-inspector .styles-selector,#-webkit-web-inspector .styles-section .selector-matches{color:#abca7e !important;}
 
