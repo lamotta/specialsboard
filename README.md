@@ -1,11 +1,11 @@
-Specials Board (Coda) Color Scheme for Sublime Text 2 & Google Chrome Inspector
+Specials Board (Coda) Color Scheme for Sublime Text 2/3 & Google Chrome Inspector
 =============
 
 
 Specials Board (Coda) Color Scheme for Sublime Text
 --------------
 
-You will find Sublime Text 2 packages directory by using the `Preferences -> Browse Packages`
+You will find Sublime Text 2/3 packages directory by using the `Preferences -> Browse Packages`
 
 ..or you could clone the repo using GIT within the packages directory:
 
